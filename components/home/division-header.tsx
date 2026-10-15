@@ -51,7 +51,7 @@ const DEFAULT_ENG_METRICS: MetricItem[] = [
   },
   {
     value: "LOD 400",
-    label: "TEKLA 3D BIM DETAILING",
+    label: "TEKLA 3D DETAILING",
     description: "Clash-free embeds, rebar cages & piece tickets",
   },
   {

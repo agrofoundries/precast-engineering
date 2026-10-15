@@ -105,7 +105,7 @@ export function DivisionNavigator() {
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#E8F3FF] border border-[#DCE5F0] text-[#032356] text-[11px] font-black uppercase tracking-wider font-mono">
                   <span>DIVISION 02</span>
                   <span>·</span>
-                  <span>STRUCTURAL &amp; 3D BIM</span>
+                  <span>STRUCTURAL ENGINEERING</span>
                 </div>
                 <div className="w-12 h-12 rounded-xl bg-[#E8F3FF] border border-[#DCE5F0] text-[#032356] flex items-center justify-center shrink-0 group-hover:bg-[#032356] group-hover:text-white transition-colors">
                   <Compass className="w-6 h-6 text-[#D4030C] group-hover:text-white" />
@@ -114,10 +114,10 @@ export function DivisionNavigator() {
 
               {/* Title & Tagline */}
               <h3 className="text-xl sm:text-2xl font-black text-[#032356] uppercase tracking-tight mb-2">
-                Structural Engineering &amp; BIM
+                Structural Engineering &amp; Detailing
               </h3>
               <p className="text-xs sm:text-sm text-[#475569] leading-relaxed mb-6">
-                Specialized in-house precast structural engineers, licensed PE stamped calculations, Tekla LOD 400 virtual design, and clash-free production shop drawings.
+                Specialized in-house precast structural engineers, licensed PE stamped calculations, Tekla LOD 400 design, and clash-free production shop drawings.
               </p>
 
               {/* Specs & Highlights */}
@@ -128,7 +128,7 @@ export function DivisionNavigator() {
                 </div>
                 <div className="flex items-start gap-2.5 text-xs text-slate-700">
                   <CheckCircle2 className="w-4 h-4 text-[#032356] shrink-0 mt-0.5" />
-                  <span><strong>Tekla LOD 400 BIM:</strong> Full 3D model detailing of rebar cages, embeds, and crane picks</span>
+                  <span><strong>Tekla LOD 400 Detailing:</strong> Complete 3D detailing of rebar cages, embeds, and crane picks</span>
                 </div>
                 <div className="flex items-start gap-2.5 text-xs text-slate-700">
                   <CheckCircle2 className="w-4 h-4 text-[#032356] shrink-0 mt-0.5" />
@@ -154,7 +154,7 @@ export function DivisionNavigator() {
                 href="/#software"
                 className="inline-flex items-center gap-1.5 px-4 py-2.5 rounded-lg bg-[#F4F8FD] hover:bg-[#E8F3FF] border border-[#DCE5F0] text-[#032356] text-xs font-extrabold uppercase tracking-wider transition-colors active:scale-95"
               >
-                <span>BIM &amp; Software</span>
+                <span>Engineering Software</span>
               </Link>
               <Link
                 href="/#contact"

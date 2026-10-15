@@ -33,7 +33,7 @@ const TRUST_METRICS = [
   },
   {
     icon: CheckCircle2,
-    title: "Licensed PE & 3D BIM",
+    title: "Licensed PE Calculations",
     subtitle: "PE Stamped Calculations & Detailing",
   },
 ];
@@ -98,7 +98,7 @@ export function HeroSection() {
 
           {/* Clear Supporting Description in Simple English */}
           <p className="text-xs sm:text-sm lg:text-base text-[#1E293B] leading-relaxed font-medium max-w-2xl mb-4 sm:mb-6 animate-fade-up [animation-delay:220ms]">
-            We engineer and manufacture certified precast concrete solutions for roads, bridges, and underground utilities. From licensed PE calculations and 3D BIM models to high-capacity plant casting—we help you build infrastructure designed to endure for generations.
+            We engineer and manufacture certified precast concrete solutions for roads, bridges, and underground utilities. From licensed PE calculations and precision shop detailing to high-capacity plant casting—we help you build infrastructure designed to endure for generations.
           </p>
 
           {/* Action CTAs in Simple Words */}

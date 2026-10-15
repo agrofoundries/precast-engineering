@@ -174,7 +174,7 @@ export function ContactSection() {
                       <option>Maine DOT Leaching Galleys</option>
                       <option>Highway Bridge &amp; Civil Culverts</option>
                       <option>Monolithic Septic &amp; Grease Traps</option>
-                      <option>Tekla LOD 400 3D BIM Detailing</option>
+                      <option>Tekla LOD 400 3D Structural Detailing</option>
                       <option>PE / SE Stamped Structural Calculations</option>
                     </select>
                   </div>
@@ -262,23 +262,23 @@ export function ContactSection() {
                   </div>
                   <div>
                     <div className="font-bold text-slate-400 uppercase text-[10px]">Territory Coverage</div>
-                    <div className="text-slate-200">Serving Precast Fabricators Across All 50 U.S. States</div>
+                    <div className="text-slate-200">Serving Precast Fabricators Nationwide Across Major U.S. Corridors</div>
                   </div>
                 </div>
               </div>
             </div>
 
-            {/* Quality Guarantee Card */}
+            {/* Quality Compliance Standards Card */}
             <div className="bg-[#F4F8FD] border-2 border-[#DCE5F0] rounded-2xl p-6 flex items-start gap-4">
               <div className="w-10 h-10 rounded-xl bg-[#032356] text-white flex items-center justify-center shrink-0">
                 <ShieldCheck className="w-5 h-5 text-[#D4030C]" />
               </div>
               <div>
                 <h4 className="text-sm font-extrabold text-[#032356] uppercase">
-                  PE-Stamped Submittal Guarantee
+                  PE-Stamped Submittal Compliance Standards
                 </h4>
                 <p className="text-xs text-[#475569] mt-1 leading-relaxed">
-                  All structural calculation packages and piece tickets comply with applicable state DOT and ACI / PCI standards.
+                  All structural calculation packages and piece tickets strictly comply with applicable state DOT, AASHTO, and ACI / PCI engineering standards.
                 </p>
               </div>
             </div>

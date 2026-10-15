@@ -73,7 +73,7 @@ export function AboutPrecastEngineers() {
                   Precast Engineering &amp; Detailing Practice
                 </p>
                 <p className="text-[11px]">
-                  Focusing on precision calculations, BIM models, and shop drawings.
+                  Focusing on precision calculations, 3D structural models, and shop drawings.
                 </p>
               </div>
             </div>

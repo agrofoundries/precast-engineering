@@ -6,7 +6,7 @@ import { SectionHeading } from "@/components/ui/section-heading";
 const ENGINEERING_FEATURES = [
   {
     code: "ENG-01",
-    title: "LOD 400 BIM & Tekla Detailing",
+    title: "LOD 400 Tekla Detailing",
     description: "Every rebar cage, embed plate, lifting insert, and architectural reveal is modeled in full 3D to eliminate field clashes with MEP and structural steel.",
   },
   {
@@ -35,8 +35,8 @@ export function EngineeringSection() {
           <div className="lg:col-span-7">
             <SectionHeading
               eyebrow="Virtual Design & Detailing"
-              specCode="BIM / LOD 400"
-              title="In-House Precast Structural Engineering &amp; BIM Detailing"
+              specCode="PE / LOD 400"
+              title="In-House Precast Structural Engineering &amp; Detailing"
               description="Our specialized structural engineers turn complex architectural blueprints into constructible, high-performance precast systems. We detail every connection and verify tolerances before a single yard of concrete is cast."
             />
 
@@ -61,7 +61,7 @@ export function EngineeringSection() {
 
             <div className="mt-6 flex flex-wrap gap-3 items-center">
               <Link href="/capabilities#engineering" className="btn-navy text-xs uppercase tracking-wider font-bold">
-                Explore BIM &amp; PE Capabilities
+                Explore Structural &amp; PE Capabilities
                 <ArrowRight className="w-4 h-4 ml-1" />
               </Link>
               <div className="font-mono text-xs font-bold text-[#032356] bg-[#EEF3F8] border border-[#DCE5F0] px-3.5 py-2 rounded-lg flex items-center gap-2 shadow-2xs">
@@ -76,7 +76,7 @@ export function EngineeringSection() {
             <div className="relative rounded-xl overflow-hidden border-2 border-[#CBD5E1] shadow-xl aspect-[4/5] bg-[#EAEEF3]">
               <Image
                 src="/images/engineering-team.jpg"
-                alt="PRECASTPRO structural engineers and BIM modelers reviewing shop drawings"
+                alt="Precast structural engineers reviewing shop drawings"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 40vw"

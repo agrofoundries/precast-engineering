@@ -48,7 +48,7 @@ const SERVICES: ServiceItem[] = [
     href: "/#contact",
   },
   {
-    title: "BIM and 3D Modeling",
+    title: "3D Modeling & Detailing",
     description:
       "Tekla Structures LOD 400 models facilitating multidisciplinary clash detection, hardware coordination, and automated bill of materials.",
     icon: Box,
@@ -88,7 +88,7 @@ export function ServicesSection() {
             <span>PRECAST STRUCTURAL DISCIPLINES</span>
           </div>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight uppercase">
-            Engineering &amp; <span className="text-[#D4030C]">3D BIM Services</span>
+            Engineering &amp; <span className="text-[#D4030C]">Detailing Services</span>
           </h2>
           <p className="text-sm sm:text-base text-slate-300 mt-2 leading-relaxed">
             Specialized engineering services focused specifically on precast and prestressed concrete infrastructure across the United States.

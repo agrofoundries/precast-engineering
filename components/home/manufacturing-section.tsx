@@ -7,7 +7,7 @@ const CAPABILITIES_LIST = [
   {
     tag: "SYS-01",
     title: "Computerized Twin-Shaft Planetary Batching",
-    description: "Automated aggregate moisture sensors and precision load cells guarantee exact water-cement ratios and consistent slump flow across every batch.",
+    description: "Automated aggregate moisture sensors and precision load cells maintain precise water-cement ratios and consistent slump flow across every batch.",
   },
   {
     tag: "SYS-02",

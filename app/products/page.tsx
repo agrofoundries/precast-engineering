@@ -19,8 +19,8 @@ const DETAILED_PRODUCTS = [
     specs: [
       { label: "Box Sizes", value: "Span 6' to 16' · Rise 3' to 12'" },
       { label: "Traffic Rating", value: "AASHTO HS-20 & HS-25 Highway" },
-      { label: "Lifespan", value: "100+ Years Zero-Maintenance" },
-      { label: "Approvals", value: "DOT State Approved in All 50 States" },
+      { label: "Design Lifespan", value: "100-Year Civil Spec" },
+      { label: "Compliance", value: "AASHTO & State DOT Specifications" },
     ],
   },
   {
@@ -49,7 +49,7 @@ const DETAILED_PRODUCTS = [
     image: "/images/products/septic-tank-1500g.png",
     description: "One-piece seamless concrete tanks that safely treat household sewage or trap commercial kitchen grease so oils and fats never clog municipal sewer lines.",
     features: [
-      "Monolithic poured watertight concrete guaranteed to protect groundwater and wells",
+      "Monolithic poured watertight concrete engineered to protect groundwater and surrounding soils per ASTM C1227",
       "Internal baffle dividing walls that separate solids, oils, and clean wastewater",
       "Dual inspection risers and heavy-duty covers for quick maintenance access",
       "Commercial grease interceptors compliant with UPC and IAPMO plumbing codes",
@@ -96,7 +96,7 @@ export default function ProductsPage() {
               Precision-Engineered Precast Components
             </h1>
             <p className="text-base text-gray-600 leading-relaxed">
-              Manufactured in our climate-controlled PCI-certified facility to meet the most exacting structural, thermal, and architectural specifications across North America.
+              Manufactured in climate-controlled PCI-certified facilities to meet the most exacting structural, hydraulic, and civil specifications across major United States corridors.
             </p>
             <div className="mt-6 flex flex-wrap gap-4">
               <Link href="/quote" className="btn-primary">

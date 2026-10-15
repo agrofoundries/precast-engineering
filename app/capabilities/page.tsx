@@ -17,7 +17,7 @@ export default function CapabilitiesPage() {
               Manufacturing &amp; Engineering Capabilities
             </h1>
             <p className="text-sm sm:text-base text-[#475569] leading-relaxed">
-              Operating climate-controlled casting beds, computerized planetary batch plants, and a dedicated in-house structural engineering and Tekla LOD 400 BIM division.
+              Operating climate-controlled casting beds, computerized planetary batch plants, and a dedicated in-house structural engineering and Tekla LOD 400 detailing division.
             </p>
           </div>
         </div>
@@ -62,7 +62,7 @@ export default function CapabilitiesPage() {
         </div>
 
         {/* ======================================================== */}
-        {/* DIVISION 02: STRUCTURAL ENGINEERING & 3D BIM             */}
+        {/* DIVISION 02: STRUCTURAL ENGINEERING & DETAILING         */}
         {/* ======================================================== */}
         <div id="engineering" className="pt-8 border-t border-slate-200">
           <div className="flex items-center gap-3 mb-6">
@@ -70,14 +70,14 @@ export default function CapabilitiesPage() {
               DIVISION 02
             </span>
             <h2 className="text-2xl sm:text-3xl font-black text-[#032356] uppercase">
-              Structural Engineering &amp; Tekla LOD 400 BIM
+              Structural Engineering &amp; Tekla LOD 400 Detailing
             </h2>
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-6">
               <span className="text-xs font-bold uppercase tracking-wider text-[#D4030C]">Virtual Design &amp; Detailing</span>
-              <h3 className="text-2xl sm:text-3xl font-bold text-[#032356] mt-2 mb-4">LOD 400 BIM &amp; Tekla Coordination</h3>
+              <h3 className="text-2xl sm:text-3xl font-bold text-[#032356] mt-2 mb-4">LOD 400 Tekla Detailing &amp; Coordination</h3>
               <p className="text-sm text-[#475569] leading-relaxed mb-6">
                 Our engineering team does not just take prints and cast. We model every piece in 3D, detailing rebar placement, embeds, lifting points, and hardware connections. This virtual prototype enables instant clash detection with structural steel and MEP trades before a single drop of concrete is placed.
               </p>

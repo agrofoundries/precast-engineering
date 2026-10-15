@@ -19,8 +19,8 @@ export function CompanyIntro() {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border-2 border-[#DCE5F0] shadow-xl aspect-[4/3] bg-slate-100">
               <Image
-                src="/images/manufacturing.jpg"
-                alt="Precast concrete manufacturing plant floor with heavy casting beds and overhead crane systems"
+                src="/images/hero-precast.jpg"
+                alt="High-capacity precast concrete casting yard with outdoor gantry and mobile crane logistics"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

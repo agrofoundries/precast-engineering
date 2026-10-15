@@ -35,8 +35,8 @@ const BLOG_POSTS: BlogPost[] = [
   },
   {
     id: "tekla-lod-400-detailing",
-    title: "Tekla LOD 400 BIM in Precast: Eliminating Costly Casting Bed Clashes Before the Pour",
-    category: "3D BIM & DETAILING",
+    title: "Tekla LOD 400 Detailing in Precast: Eliminating Costly Casting Bed Clashes Before the Pour",
+    category: "STRUCTURAL DETAILING",
     readTime: "6 min read",
     date: "SEPTEMBER 2026",
     summary:
@@ -62,7 +62,7 @@ export function BlogSection() {
 
           <div className="flex flex-col sm:flex-row sm:items-end justify-between mt-4 gap-4">
             <p className="text-sm sm:text-base lg:text-lg text-[#334155] max-w-2xl leading-relaxed">
-              Helpful technical articles, DOT drainage guidelines, and 3D BIM best practices from our licensed engineering team.
+              Helpful technical articles, DOT drainage guidelines, and structural detailing best practices from our licensed engineering team.
             </p>
 
             <Link

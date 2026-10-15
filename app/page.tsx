@@ -53,26 +53,26 @@ export default function HomePage() {
       <QCAssurance />
 
       {/* ======================================================== */}
-      {/* INTEGRATION BRIDGE: 3D BIM MODEL TO PLANT CASTING BED     */}
+      {/* INTEGRATION BRIDGE: 3D DESIGN TO PLANT CASTING BED        */}
       {/* ======================================================== */}
       <DivisionBridge />
 
       {/* ======================================================== */}
-      {/* DIVISION 02: STRUCTURAL ENGINEERING & 3D BIM CONSULTING */}
+      {/* DIVISION 02: STRUCTURAL ENGINEERING & CONSULTING         */}
       {/* ======================================================== */}
       <DivisionHeader
         id="engineering"
         divisionNumber="02"
-        title="Precast Structural Engineering & 3D BIM Services"
+        title="Precast Structural Engineering & Detailing Services"
         subtitle="Licensed PE Stamped Calculations & Tekla LOD 400 Detailing"
         badge="VIRTUAL DESIGN & LICENSED PE CONSULTING"
         description="Dedicated in-house structural engineering consultancy specializing exclusively in precast and prestressed concrete systems. Delivering licensed PE/SE stamped calculations, custom connection designs, erection sequencing, and clash-free fabrication detailing."
         primaryLink={{ label: "View 8 Engineering Disciplines", href: "/#services" }}
-        secondaryLink={{ label: "Digital BIM Workflows", href: "/#software" }}
+        secondaryLink={{ label: "Digital Workflows", href: "/#software" }}
         theme="engineering"
       />
 
-      {/* 6. In-House Precast Structural Engineering & BIM Detailing */}
+      {/* 6. In-House Precast Structural Engineering & Detailing */}
       <EngineeringSection />
 
       {/* 7. 8 Core Precast Engineering Disciplines */}
